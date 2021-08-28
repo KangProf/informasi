@@ -13,6 +13,9 @@ Facebook Toolkit
   </a>
 </p>
 
+Thankz To Allah
+
+Thankz To Mas Tegar
 
 # Installation
 <details open>

@@ -30,6 +30,18 @@ Thankz To Mas Tegar
   ```
 
 - ```bash
+  $ apt install git
+  ```
+
+- ```bash
+  $ pip install mechanize
+  ```
+
+- ```bash
+  $ pip install bs4
+  ```
+
+- ```bash
   $ pip install requests
   ```
 
